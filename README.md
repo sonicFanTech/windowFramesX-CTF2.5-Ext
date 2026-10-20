@@ -369,22 +369,6 @@ The following Storyboard-related features are **not implemented in R1** and shou
 
 These items require a reliable runtime entry point or further investigation before they can be added. They may be considered for a future major release; they are not advertised as R1 features.
 
-## Building from source
-
-The project includes a Visual Studio solution and uses the classic Clickteam Fusion Extension SDK files included in the source tree.
-
-1. Install Visual Studio with the **Desktop development with C++** workload and a suitable Windows SDK.
-2. Open `FusionSDK/Extensions/WindowFramesX/WindowFramesX.sln`.
-3. Select the **Release** configuration and **Win32** platform.
-4. Build the solution.
-5. Install the editor and runtime `.mfx` outputs into their corresponding Fusion Unicode folders as described in [Installation](#installation).
-6. Test the object in the Fusion editor and in a built application, especially any native fullscreen, VSync, frame-dimension, background-color, or scrolling behavior you rely on.
-
-The project uses the included SDK headers and `mmfs2.lib`. **CMake is not required.** The source project is maintained as a Visual Studio project.
-
-> **Image placeholder:** Add a screenshot of the solution open in Visual Studio and the Release | Win32 build configuration. Suggested file: docs/images/build-in-visual-studio.png
-<!-- ![Building WindowFramesX in Visual Studio](docs/images/build-in-visual-studio.png) -->
-
 ## Versioning
 
 - **R1:** The current released feature set.
