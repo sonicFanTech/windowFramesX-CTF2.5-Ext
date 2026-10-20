@@ -61,32 +61,27 @@ Add your screenshots in `docs/images/` (or change the paths below to match where
 ### WindowFramesX object and icon
 
 > **Image placeholder:** Screenshot or crop showing the WindowFramesX object icon in Fusion. Suggested file: docs/images/windowframesx-icon.png
-<!-- ![WindowFramesX object icon](docs/images/windowframesx-icon.png) -->
+![WindowFramesX object icon](docs/images/windowframesx-icon.png) -->
 
 ### Event Editor action menus
 
-> **Image placeholder:** Show the top-level action groups and nested action submenus. Suggested file: docs/images/event-editor-actions.png
-<!-- ![WindowFramesX action menus in the Event Editor](docs/images/event-editor-actions.png) -->
+![WindowFramesX action menus in the Event Editr(docs/images/event-editor-actions.png)
 
 ### Window position, size, aspect ratio, and resolution presets
 
-> **Image placeholder:** Show the position/size submenu, aspect-ratio presets, and resolution preset categories. Suggested file: docs/images/window-size-presets.png
-<!-- ![Window sizing and resolution presets](docs/images/window-size-presets.png) -->
+![Window sizing and resolution presets](docs/images/window-size-presets.png) -->
 
 ### Conditions and expressions
 
-> **Image placeholder:** Show condition and expression menus in Fusion. Suggested file: docs/images/conditions-and-expressions.png
-<!-- ![WindowFramesX conditions and expressions](docs/images/conditions-and-expressions.png) -->
+![WindowFramesX conditions and expressions](docs/images/conditions-and-expressions.png) -->
 
 ### Example application window
 
-> **Image placeholder:** Add a screenshot of a test application demonstrating a WindowFramesX feature such as borderless fullscreen, opacity, or a custom resolution. Suggested file: docs/images/runtime-example.png
-<!-- ![WindowFramesX runtime example](docs/images/runtime-example.png) -->
+![WindowFramesX runtime example](docs/images/runtime-example.png) -->
 
 ### Example Event Editor setup
 
-> **Image placeholder:** Add an example MFA event sheet or screenshot illustrating a resolution menu or fullscreen toggle. Suggested file: docs/images/example-events.png
-<!-- ![Example events using WindowFramesX](docs/images/example-events.png) -->
+![Example events using WindowFramesX](docs/images/example-events.png) -->
 
 ## Installation
 
@@ -100,8 +95,7 @@ WindowFramesX has two roles in a Fusion installation: the editor needs the exten
 
 The exact Fusion installation path depends on where Fusion was installed. For example, the folders are typically beneath the Clickteam Fusion 2.5 installation directory.
 
-> **Image placeholder:** Add a screenshot showing both the editor Extensions/Unicode folder and the Data/Runtime/Unicode folder. Suggested file: docs/images/installation-folders.png
-<!-- ![Where to install WindowFramesX](docs/images/installation-folders.png) -->
+![Where to install WindowFramesX](docs/images/installation-folders.png) -->
 
 ## Using WindowFramesX
 
@@ -111,8 +105,7 @@ In the Event Editor, right-click to add a WindowFramesX action, condition, or ex
 
 **Useful distinction:** the *outer window size* includes the title bar and borders; the *client-area size* is the inside area used by the application. Resolution presets target the client area. The custom `Set window size` action instead targets the outer window dimensions.
 
-> **Image placeholder:** Add a short screenshot sequence showing how to insert the object and choose an action. Suggested file: docs/images/getting-started-event.png
-<!-- ![Adding a WindowFramesX action](docs/images/getting-started-event.png) -->
+![Adding a WindowFramesX action](docs/images/getting-started-event.png) -->
 
 ## Actions
 
@@ -228,8 +221,7 @@ R1 provides these conditions for checking the current window/runtime state in Fu
 | **Native fullscreen mode is active** | WindowFramesX reports that its native fullscreen request/state is active. |
 | **VSync is enabled** | Fusion's relevant application/surface flag reports VSync as enabled. |
 
-> **Image placeholder:** Add a screenshot of the Conditions menu. Suggested file: docs/images/conditions-menu.png
-<!-- ![WindowFramesX conditions](docs/images/conditions-menu.png) -->
+![WindowFramesX conditions](docs/images/conditions-menu.png) -->
 
 ## Expressions
 
@@ -279,8 +271,7 @@ The monitor work area usually excludes reserved desktop areas such as the taskba
 | **`ScrollX()`** | The current frame's horizontal scroll coordinate. |
 | **`ScrollY()`** | The current frame's vertical scroll coordinate. |
 
-> **Image placeholder:** Add a screenshot of the Expressions menu. Suggested file: docs/images/expressions-menu.png
-<!-- ![WindowFramesX expressions](docs/images/expressions-menu.png) -->
+![WindowFramesX expressions](docs/images/expressions-menu.png) -->
 
 ## Aspect-ratio presets
 
@@ -337,8 +328,7 @@ The **Set resolution preset (client area)** submenu contains 20 common client-ar
 
 For a size that is not listed, use **Set window size** to specify outer dimensions or **Set client-area size** to specify the client/render area.
 
-> **Image placeholder:** Add a screenshot showing the Small, Medium, and HD and widescreen submenu categories. Suggested file: docs/images/resolution-preset-submenus.png
-<!-- ![Resolution preset submenus](docs/images/resolution-preset-submenus.png) -->
+![Resolution preset submenus](docs/images/resolution-preset-submenus.png) -->
 
 ## Important behavior and compatibility notes
 
