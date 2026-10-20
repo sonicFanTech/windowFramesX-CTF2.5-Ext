@@ -7,7 +7,7 @@ Developed by **SHAPELESS GOAT STUDIOS** — **Cyvix Zemran Voxless / sonic Fan T
 > **Current release: R1**  
 > R1 is the current completed feature set. Minor fixes and maintenance updates can remain R1; a substantial expansion of features is planned for a future R2 release.
 
-Example image syntax: ![WindowFramesX icon](docs/images/windowframesx-icon.png)
+![WindowFramesX icon](docs/images/windowframesx-icon.png)
 
 ## Contents
 
