@@ -7,8 +7,7 @@ Developed by **SHAPELESS GOAT STUDIOS** — **Cyvix Zemran Voxless / sonic Fan T
 > **Current release: R1**  
 > R1 is the current completed feature set. Minor fixes and maintenance updates can remain R1; a substantial expansion of features is planned for a future R2 release.
 
-> **Image placeholder:** Add the 32×32 WindowFramesX / SGS icon here. Suggested file: docs/images/windowframesx-icon.png
-<!-- Example image syntax: ![WindowFramesX icon](docs/images/windowframesx-icon.png) -->
+Example image syntax: ![WindowFramesX icon](docs/images/windowframesx-icon.png)
 
 ## Contents
 
