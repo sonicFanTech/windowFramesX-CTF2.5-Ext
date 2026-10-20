@@ -60,7 +60,6 @@ Add your screenshots in `docs/images/` (or change the paths below to match where
 
 ### WindowFramesX object and icon
 
-> **Image placeholder:** Screenshot or crop showing the WindowFramesX object icon in Fusion. Suggested file: docs/images/windowframesx-icon.png
 ![WindowFramesX object icon](docs/images/windowframesx-icon.png) -->
 
 ### Event Editor action menus
